@@ -1,0 +1,17 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:1": "ts-node 01-generics/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^25.8.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
